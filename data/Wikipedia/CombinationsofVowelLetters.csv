@@ -1,0 +1,261 @@
+Nums,Spelling,Syllable Position,Major value (IPA),Examples of major value,Minor values,Examples of minor value,Except values,Examples of Except value
+1,a,before multiple consonants,/æ/,"hatchet, banner, tally",/eɪ/,"ache, ancient, chamber, pastry",/ɒ/,yacht
+2,a,final vowel in word,/æ/,"acrobat, cat",/eɪ/,bass,,
+3,a,followed by 2 or more unstressed syllables,/æ/,"national, camera, reality ",/eɪ/,"nationhood, scathingly",,
+4,a,"next syllable contains /ɪ, ə/",,,/eɪ/,"basis, aphasic",,
+5,a,"next syllable contains /ɪ, ə/",/æ/,"acid, granite, palace",/ɑː/,"father (RP: aft, ask, dance, past)",,
+6,a,"before final -nge, -ste",/eɪ/,"range, exchange, haste",/æ/,"flange, caste (GA)",,
+7,a,before single consonant,/eɪ/,"gave, opaque, savor, status",/æ/,"have, plaque, manor, statue",/ɛ/,"many, any, ate (RP)"
+8,a,before single consonant,,,,,/aɪ/,naive
+9,a,before cons + (-le or r+vowel),/eɪ/,"table, hatred, April",/æ/,"macle, sacrifice, theatrical",,
+10,a,before heterosyllabic vowel,/eɪ/,"chaos, aorta, mosaic",/ɑː/,"debacle, melange",,
+11,a,before heterosyllabic vowel,,,/ɑː/,"gala, lava, slalom, sonata",,
+12,a,before final r or r + cons.(and in derived terms),/ɑː/,"bar, cart",,,/ɛə/,scarce
+13,a,before final r or r + cons.(and in derived terms),/ɑː/,"barred, marring",,,,
+14,a,before r + vowel,/ɛ(ə)/ †,"area, care, garish, wariness",/æ/ †,"arid, parish, mariners, caraway",/ɔː/,quarantine (GA)
+15,a,before r + vowel,,,/ɑː/,"aria, are, safaris, faraway",/ɒ/,waratah
+16,a,word-final (stressed),/ɑː/,"bra, cha-cha, schwa, spa",,,,
+17,a,"after /w/ except before /k/, /ɡ/, /ŋ/",/ɒ/ (/ɑː/)*,"want, watch, quality, squash, swamp, wapiti, swastika, wallet",/ɒ/ (/ɔː/)*,"wash, wasp, quarantine",/ɑː/,"qualm, suave, swami"
+18,a,"after /w/ except before /k/, /ɡ/, /ŋ/",,,/ɔː/,"water, wall, walnut, waltz",/æ/,"swam, aquatic (RP)"
+19,a,"after /w/ except before /k/, /ɡ/, /ŋ/",,,/ɛ(ə)/,"aware, square, wary, antiquarian",/ʌ/,"was, what (GA)"
+20,a,"after /w/ except before /k/, /ɡ/, /ŋ/",,,/eɪ/,"persuade, wastage, swathe",,
+21,a,after /w/ before final r or r + cons.(and in derived terms),/ɔː/,"war, award, dwarf, warning, quarter, warring",,,/ɑː/,"jaguar (GA), quark"
+22,a,after /w/ before final r or r + cons.(and in derived terms),,,,,/ɒ/,warrior (RP)
+23,a,unstressed,/ə/,"about, an, salary, woman, blancmange, opera, via",/ə/ to Ø,"artistically, ordinary, necessary",/i/,"karaoke, bologna(GA)"
+24,a,unstressed,,,/ɪ/,"chocolate, purchase, solace,",/ɑː/,"retard (n), canard (RP)"
+25,a,unstressed,,,/eɪ/,"probate, folate, kinase",,
+26,a,"unstressed, in -age","/ɪ, ə/","damage, forage, garbage",/ɑː/,"(RP): garage, barrage",/eɪ/,teenage
+27,"aa, ah",,/ɑː/,"baa, aardvark, blah",/ɛə/,Aaron,/eɪ/,Quaalude
+28,ae,usually,/iː/,"encyclopaedia, paediatrician",/ɛ/,aesthetic,/eɪ/,"reggae, sundae, gaelic"
+29,ae,before r,/ɛə/,"aerial, aeroplane",/ɪə/,chimaera,/ə/,anaerobe
+30,ai,stressed,/eɪ/,"daisy, laid, paisley, regain, waif",/aɪ/,"aisle, bonsai, daimon, krait",/æ/,"plaid, plaited, daiqiri"
+31,ai,stressed,,,/ɛ/,"said, again, against",/aɪiː/,"naif, caique"
+32,ai,stressed,,,/eɪ ɪ/,"dais, laic, mosaic, papain",/i ɪ/,archaism
+33,ai,before r,/ɛə/,"cairn, millionaire, dairy",,,/aɪ/,"hetaira, zaire"
+34,ai,unstressed,"/ɪ, ə/","bargain, mountain",/ə/,"certain, coxswain, spritsail",,
+35,ao,,/aʊ/,"cacao, miaow, Taoism",/eɪ/,gaol,/oʊ/,pharaoh
+36,ao,,,,/eɪɒ/,"kaon, chaos",/eɪɔː/,aorta
+37,ao,,,,/eɪə/,"aorist, kaolin",/eɪoʊ/,baobab
+38,ao,,,,/ɔː/,extraordinary,/ioʊ/,karaoke
+39,au,,/ɔː/,"aura, cause, chauffer, slaughter",/ɒ/,"because, laurel, leprechaun",/eɪ/,gauge
+40,au,,,,/ɑː/ (/æ/)**,"aunt, draught, laughter",/aʊə/,gaur
+41,au,,,,/aʊ/,"degauss, graupel, trauma (GA)",/ʌ/,because (GA)
+42,au,,,,/oʊ/,"chauffeur, gauche, mauve",/ə/,"aurora, meerschaum"
+43,aw,,/ɔː/,"awed, flaw, hawk, tawny",,,/ə/,awry
+44,ay,,/eɪ/,"bayonet, essays, grayer, hayride",/aɪ/,"aye, bayou, kayak, papaya",/iː/,"cay, quay, parlay"
+45,ay,,,,/ɛ/,"mayor, prayer, says",/əj/,gayal
+46,e,before single consonant,/iː/,"even, demon, fetal, recombine",/ɛ/,"ever, lemon, petal, recollect",/eɪ/,"crepe, suede, ukulele"
+47,e,before cons + r +vowel,/iː/,"metre, secret, egret, secretion",/ɛ/,"petrol, debris (RP), , discretion",/ɑː/,genre
+48,e,before cons + r +vowel,,,,,/ɒ/,genre
+49,e,"final, only vowel in word",/iː/,"be, she",/eɪ/,"abbe, cafe (GA), saute",,
+50,e,before heterosyllabic vowel,/iː/,"museum, neon, theater (GA)",/eɪ/,"seance, rodeo, deity (RP)",/ɛ/,yeah (GA)
+51,e,before multiple consonants,/ɛ/,"petty, methane, merry, treble",/iː/,"lethal, reflex, Stephen",/ɪ/,"pretty, English"
+52,e,final vowel in word,/ɛ/,"get, watershed",/iː/,"feces, axes (plural of axis)",/ɑː/,"ennui, entourage"
+53,e,final vowel in word,,,,,/ɒ/,"ennui, entourage"
+54,e,bef. 2+ unstressed syllables,/ɛ/,"legacy, elegant, delicate",/iː/,"legally, devious, premium",/eɪ/,eh
+55,e,next syllable contains /ɪ/,/ɛ/,"metric, crevice, epic",/iː/,"evil, scenic, strategic",,
+56,e,before final r or r + other cons.(and in derived terms),/ɜː/,"her, coerced, jerk, merchant",/ɛ/,berceuse,/ɑː/,"clerk, sergeant"
+57,e,before final r or r + other cons.(and in derived terms),/ɜː/,"erring, preferred",/ɛ/,error,,
+58,e,before r + vowel,/ɪə/,"here, series, reremice, stereo",/ɛə/,"compere, there, werewolf",/ɜː/,"were, weregild"
+59,e,before r + vowel,,,/ɛ/,"derelict, heresy, perish, very",,
+60,e,before r + vowel,,,/iː/,"derail, reremind",,
+61,e,unstressed,/ə/,"taken, decency, moment","/ɪ, ə/","hatchet, target, poet",/ɪ/,"erase, erect"
+62,e,"ibid., word-final and derivatives",Ø,"discipline, recites, smile, limitrophe",/iː/,"recipes, simile, apostrophe, deled",/eɪ/,"latte, mores, protege"
+63,e,"ibid., before heterosyllabic vowel",/i/,"create, area, atheism, video",/eɪ/,"fideism, realpolitik",,
+64,ea,usually,/iː/,"dreams, read, cleans, leaf, zeal",/eɪ/,"break, eagre, great, yea",/ɑː/,orgeat
+65,ea,usually,,,,,/æ/,poleax
+66,ea,usually,/ɛ/,"dreamt, read, cleanse, deaf, zealot",/ə/,"hydrangea, likeable, ocean",/ɔː/,ealderman
+67,ea,usually,,,/ɪə/,"idea, ideal, real, realty",/ɪ/,mileage
+68,ea,usually,,,,,/iːɪ/,lineage
+69,ea,usually,,,/iːə/,"urea, cereal, fealty, laureate",/ɛə/,yeah
+70,ea,usually,,,,,/eɪɑː/,seance
+71,ea,usually,,,/iːeɪ/,"creating, protease, reagent",/iːæ/,"beatify, caveat, reality"
+72,ea,before r + cons.,/ɜː/,"pearly, hearse, yearning, earth",/ɑː/,"hearken, hearty, hearth",/ɪə/,"beard, peart"
+73,ea,before r + cons.,,,,,/eɪə/,bearnaise
+74,ea,before r + cons.,,,,,/i'ɑː/,rearm
+75,ea,before final r or r + vowel(and in derived terms),/ɪə/,"dearly, hears, yearling, tear",/ɛə/,"tear, bears, wearing",/ɜː/,heard
+76,ea,before final r or r + vowel(and in derived terms),,,/iːə/,"linear, nuclear, stearin",/iː/,tearoom
+77,eau,,/oʊ/,"bureau, plateau, tableau",/juː/,beauty,/ɒ/,bureaucracy
+78,eau,,,,,,/ə/,bureaucrat
+79,ee,usually,/iː/,"bee, breech, feed, trainee",/eɪ/,"matinee, fiancees, nee",/ɪ/,"breeches, been (GA)"
+80,ee,usually,,,/i/,"bungee, coffee",/iːə/,"freest, weest"
+81,ee,usually,,,,,/iːɛ/,reecho
+82,ee,usually,,,,,/iːɪ/,reelect
+83,ee,before r,/ɪə/,"cheering, beer, eerie",/iːə/,"freer, seers",,
+84,"ei, ey",usually,/eɪ/,"veil, weight, heinous, obey",/iː/,"caffeine, seize, key, geyser",/ɛ/,"heifer, leisure, seigneur"
+85,"ei, ey",usually,,,/aɪ/,"either, height, heist, heinie, eye",/æ/,"reveille, serein"
+86,"ei, ey",usually,,,/iːɪ/,"albeit, being, cysteine, deist",/eɪ ɪ/,fideist
+87,"ei, ey",usually,,,,,/iˈaɪ/,deice
+88,"ei, ey",after c,/iː/,"deceive, ceiling, conceit",,,/æ/,"ceinture, enceinte"
+89,"ei, ey",after c,,,,,/eɪɪ/,glaceing
+90,"ei, ey",after c,,,,,/iːɪ/,haecceity
+91,"ei, ey",before r,/ɛə/,"heir, madeira, their",/ɪə/,"weird, weir, eyrie",/aɪ/,"oneiric, eirenic"
+92,"ei, ey",unstressed,"/ɪ, ə/","foreign, counterfeit, forfeit",/ə/,"mullein, villein",/ɪ/,"ageist, herein, ogreish"
+93,"ei, ey",unstressed,,,/i/,volleyed,/aɪ/,walleyed
+94,"ei, ey","unstressed, word-final",/i/,"monkey, curtsey, jersey",,,/eɪ/,survey (n)
+95,eo,usually bisyllabic,/iːɒ/,"eon, geology, reoffer, teleost",/ɛ/,"feoffee, jeopardy, leopard",/oʊ/,yeoman
+96,eo,usually bisyllabic,,,,,/ɛə/,ceorl
+97,eo,usually bisyllabic,/iːoʊ/,"creole, geode, leonine, video",/iː/,"feoff, people",/juː/,feodary
+98,eo,usually bisyllabic,,,,,/uːi/,geoduck
+99,eo,usually bisyllabic,/iːə/,"galleon, leotard, peon, theory",/ə/,"luncheon, pigeon, embraceor",/eɪoʊ/,"rodeo, teosinte"
+100,eo,usually bisyllabic,,,,,/iˈa/,meow
+101,"eu(e), ew(e), ieu, iew",usually,/juː/,"deuce, feudal, queue, dew, ewe, view",/ɜː/,"berceuse, danseuse",/oʊ/,"sew, shew"
+102,"eu(e), ew(e), ieu, iew",,,,/uː/,"leukemia, lewd, lieu (sic)",/ɛf/,lieutenant (RP)
+103,"eu(e), ew(e), ieu, iew",,,,,,/jɜː/,milieu
+104,"eu(e), ew(e), ieu, iew",,,,/iːə/,"museum, pileus",/iːuː/,reuse
+105,"eu(e), ew(e), ieu, iew",,,,,,/iːʌ/,reutters
+106,"eu(e), ew(e), ieu, iew",,,,,,/ʌ/,"pileup, Ø fauteuil"
+107,"eu(e), ew(e), ieu, iew","after /r/, /ʃ/, /ʒ/, /j/, cons. + /l/",/uː/,"rheumatism, sleuth, jewel, blew",/iːə/,nucleus,,
+108,"eu(e), ew(e), ieu, iew",before r,/jʊə/,"euro, liqueur, neural",/ɜː/,"masseur, voyeur",/ʊə/,pleurisy
+109,"eu(e), ew(e), ieu, iew",before r,,,,,/iːɜː/,theurgy
+110,"eu(e), ew(e), ieu, iew",unstressed before r,/ju(ə)/,"eurhythmic, neurotic",/jə/,"aneurism, derailleur, grandeur",,
+111,"eu(e), ew(e), ieu, iew",unstressed before r,,,/ə/,"amateur, chauffeur",,
+112,i,before single consonant,/aɪ/,"cited, dive, mica, rise, polite, shine",/ɪ/,"city, give, vicar, risen",/iː/,"police, elite, machine"
+113,i,before cons + (-le or r+vowel),/aɪ/,"idle, trifle, nitrous, mitres",/ɪ/,"triple, citrus, giblets",/iː/,"litres, in vitro"
+114,i,"before -nd, -ld, -gh, -gn",/aɪ/,"sighed, signage, wilder, remind",/ɪ/,"pighead, signal, bewilder, rescind",/iː/,"chignon, Monsignor"
+115,i,word-final,/aɪ/,"alumni, alibi, radii",/iː/,ski,,
+116,i,before heterosyllabic vowel,/aɪ/,"vial, quiet, prior, pious",/iː/,"clientele, fiat, lien, skiing",,
+117,i,before multiple consonants,/ɪ/,"dissent, mislaid, slither",/aɪ/,"dissect, island, blithely",/æ/,meringue
+118,i,before multiple consonants,,,,,/iː/,"artiste, chenille"
+119,i,final vowel in word,/ɪ/,"kiss, sic, bit, inflict, hint, plinth",/aɪ/,"indict, pint, ninth",/iː/,"skis, chic, ambergris"
+120,i,bef. 2+ unstressed syllables,/ɪ/,"litany, liberal, chivalry, misery",/aɪ/,"irony, libelous, rivalry, miserly",,
+121,i,next syllable contains /ɪ/,/ɪ/,"finish, limit, minute (n)",/aɪ/,"whitish, writing",,
+122,i,before cons. + e/i + vowel,/ɪ/,"hideous, position, Sirius",/aɪ/,"shinier, tidied",,
+123,i,before r + vowel (except bef. 2+ unstressed syllables),/aɪə/,"pirate, mired, virus, iris, wiring",/ɪ/,"mirage, virile, iridescent, spirit",,
+124,i,before final r or r + cons.(and in derived terms),/ɜː/,"bird, fir, stirrer",,,/ɪə/,menhir
+125,i,unstressed,"/ɪ, ə/","divide, permit (n), livid, typical",/ə/,"giraffe, pencil, cousin, Cheshire",Ø,"business, parliament, lieu, nostalgia"
+126,i,unstressed,,,,,/aɪ/,"director, minute (adj)"
+127,i,unstressed,,,,,/aɪə/,sapphire
+128,i,"usd, before heterosyllabic vowel",/i/,"liaison, alien, radii, idiot",/aɪ/,"biology, diameter",,
+129,ie,finally,/aɪ/,"belie, die, untie, vie",/i/,"goalie, oldie, auntie, movie",/eɪ/,lingerie (GA)
+130,ie,finally,,,,,/ieɪ/,kyrie
+131,ie,medially,/iː/,"field, siege, rabies, skied",/aɪ/,"allied, pied, skies",/ɪ/,"sieve, mischief, kerchief"
+132,ie,medially,,,/aɪə/,"client, diet, science, sliest",/ɛ/,"friend, hygienic (GA)"
+133,ie,medially,,,/iə/ to /jə/,"ambient, alien, oriel, ugliest",/aɪˈɛ/,biennial
+134,ie,medially,,,,,/iːɒ/,clientele
+135,ie,medially,,,/iˈɛ/,"orient (v), acquiesce",/iˈiː/,medieval
+136,ie,medially,,,,,/iːə/,lien
+137,ie,before r,/ɪə/,"cashier, fierce, frontier, pier,",/aɪ(ə)/,"shier, fiery, hierarchy, plier",/iɛ(ə)/,"concierge, premiere"
+138,ie,before r,,,/iə/ to /jə/,"busier, rapier, glacier, hosiery",/iˈeɪ/,"atelier, bustier, dossier"
+139,ie,before r,,,,,/iːə/,skier
+140,o,before multiple consonants,/ɒ/ or /ɑː/,"doctor, torrent, donkey",/ʌ/,"won, monkey, front",/ʊ/,wolf
+141,o,final vowel in word,/ɒ/ or /ɑː/,"dot, bomb, wonk",/oʊ/,"gross, comb, wonted, both",/wʌ/,once
+142,o,followed by 2 or more,/ɒ/ or /ɑː/,"opera, colonise, cooperate",/oʊ/,"brokenly, probity, tonicity",/ɔː/,"(GA) long, broth"
+143,o,next syllable contains /ɪ/,/ɒ/ or /ɑː/,"topic, solid, promise",/oʊ/,"meiosis, aerobic",,
+144,o,final vowel in word,,,/uː/,"tomb, womb",,
+145,o,before single consonant,/oʊ/,"omen, grove, total",/ɒ/,"moral, proper, shone",/ʊ/,"woman, bosom"
+146,o,before cons + (-le or r+vowel),/oʊ/,"noble, cobra",/uː/,"to, who, move, doable",/ɪ/,women
+147,o,word-final,/oʊ/,"banjo, go",/ʌ/,"come, love, done, colander",/wʌ/,one
+148,o,before heterosyllabic vowel(inc. unstressed),/oʊ/,"boa, poet, stoic",/ə/,"purpose, Europe",Ø,"colonel, sophomore (some dialects)"
+149,o,before heterosyllabic vowel(inc. unstressed),/oʊ/,cooperate,,,,
+150,o,before r,/ɔː/,"ford, boring, more",/ɒ/,"forest, borrow, moral",/ɜː/,whorl
+151,o,before r,,,,,/ʌ/,borough
+152,o,"after w, before r",/ɜː/,"word, work, worst",/ɔː/,"worn, sword, swore",/ʌ/,worry
+153,o,unstressed,/ə/,"eloquent, wanton, author",,,/ɒ/,neuron
+154,oa,usually,/oʊ/,"boat, coal, load, coaxing",/oʊə/,"boa, inchoate",/ɔː/,broad
+155,oa,usually,,,/oʊæ/,"coaxial, ogdoad",/uːə/,doable
+156,oa,usually,,,/oʊˈeɪ/,"oasis, cloaca",/oʊˈɒ/,koala
+157,oa,before r,/ɔː/,"boar, coarse, keyboard, soaring",,,/ə/,"cupboard, starboard"
+158,oa,before r,,,,,/oʊˈɑː/,coarctate
+159,oe,usually,/iː/,"amoeba, coelacanth, foetal, phoenix",/oʊ/,"doeskin, woeful",/ɛ/,"foetid, roentgen"
+160,oe,usually,,,/uː/,"shoelace, canoeing",/oʊˈiː/,"coeval, noesis"
+161,oe,usually,,,/oʊˈɛ/,"poetic, soever, orthoepic",/oʊˈɜː/,coerce
+162,oe,usually,,,,,/oʊə/,"poetry, orthoepy"
+163,oe,final vowels,/oʊ/,"foe, goes, toed, woe",/uː/,"shoes, canoe",/ʌ/,does
+164,oe,final vowels,,,/oʊɛ/,"coed, noel, phloem",/uːə/,"doeth, doer"
+165,oe,final vowels,,,/oʊə/,"goer, loess, poem",/ɜː/,foehn
+166,oe,final vowels,,,,,/oʊiː/,"diploe, kalanchoe"
+167,oe,unstressed,/ɪ/,"oedema, oesophagus",/oʊ/,"aloe, echoed, oboes, soloed",/uː/,hoopoe
+168,oeu,,/uː/,manoeuvre,/ɜː/,oeuvre,,
+169,oi,usually,/ɔɪ/,"boing, moist, coin, envoi",/oʊɪ/,"going, egoist, heroin, stoic",/uːɪ/,doing
+170,oi,usually,,,/wɑː/,"bourgeois, coiffeur, patois",/iː/,chamois
+171,oi,usually,,,/ə/,"connoisseur, porpoise, tortoise, croissant",/oʊaɪ/,"ghettoise, oroide"
+172,oi,before r,/wɑː/,"reservoir, memoir, moire, soiree",/ɔɪə/,"coir, loir, Moira",/waɪə/,choir
+173,oi,before r,,,,,/ə/,avoirdupois
+174,oo,usually,/uː/,"cool, sooth, boot, goosebumps",/ʊ/,"wool, soot, foot, gooseberry",/oʊ/,brooch
+175,oo,usually,,,,,/oʊ ɒ/,"coopt, zoology"
+176,oo,"before k, d",/ʊ/,"cook, shook, wood, stood",/uː/,"kook, spook, food, brood",/ʌ/,"flood, blood"
+177,oo,before r,/ɔə/,"door, flooring",/ʊə/,"poor, moor, roorback",/ə/,whippoorwill
+178,oo,before r,,,,,/oʊ ɔː/,coordinate
+179,ou,stressed,/aʊ/,"out, aloud, bough",/uː/,"soup, you, through",/ʊ/,"could, should"
+180,ou,stressed,,,/ʌ/,"touch, trouble, country",/ɒ/,"cough, fount (printing)"
+181,ou,stressed,,,/oʊ/,"soul, dough, boulder",/juː/,"ampoule, coupon (GA)"
+182,ou,stressed before r,/ɔː/,"four, courtesan, discourse",/aʊə/,"hour, flour, scours",/ʌ/,"encourage, flourish"
+183,ou,stressed before r,,,/ɜː/,"journey, courtesy, scourge",,
+184,ou,stressed before r,,,/ʊ(ə)/,"tour, courier, gourd, velour",,
+185,ou,unstressed,/ə/,"camouflage, labour, nervous",/u/,"entourage, bivouac, bedouin",/ʌ/,hiccough
+186,ou,unstressed,,,/ʊ/,"potpourri, detour",/w/,"ratatouille, ouabaine"
+187,ow,stressed,/aʊ/,"owl, bow, row, sow, allow",/oʊ/,"own, bow, row, sow, alow",/ɒ/,"acknowledge, rowlock"
+188,ow,before r,/aʊə/,"dowry, cowries",/oʊ/,"cowrites, showroom",,
+189,ow,unstressed,/oʊ/,"yellow, teabowl, landowner",/aʊ/,"peafowl, sundowner",/əw/,"cassowary, toward (RP)"
+190,oy,,/ɔɪ/,"boy, doyenne, foyer, voyage",/waɪ/,"voyeur, noyade",/oʊj/,oyez
+191,oy,,,,,,/aɪ/,coyote (GA)
+192,oy,,,,,,/i/,buoy
+193,u,before multiple consonants,/ʌ/,"budding, cuckold, mullet, usher",/ʊ/,"pudding, cuckoo, bullet, cushion",/uː/,"truth, ruthless, brut"
+194,u,final vowel in word,/ʌ/,"but, gull, Dutch, hush, fuss",/ʊ/,"put, full, butch, shush, puss",/juː/,"butte, debut, fuchsia, tulle"
+195,u,before single consonant,/juː/,"mute, student, puny, union, fuses",/ʌ/,"study, punish, bunion, buses",/ɪ/,"busy, business"
+196,u,before cons + (-le or r+vowel),/juː/,"bugle, hubris, nutrient (RP)",/ʌ/,"butler, cutlery, subrogate",,
+197,u,before heterosyllabic vowel,/juː/,"duo, nuance, pursuant, ensuing",/uː/,"super, lunar, absolute, revolution, suet, lucrative, lugubrious",,
+198,u,word-final,/juː/,"menu, emu, impromptu (RP)",/uː/,"hindu, tutu, tofu",,
+199,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",/uː/,"rule, chute, June, recluses",/ʌ/,"pluses, runaway, truculent, runlet, clubroom, rumrunner",/ʊ/,sugar
+200,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",/uː/,"scruples, rubric",,,/juː/,"overuse, underused"
+201,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",/uː/,"truant, fluent, cruelty",,,,
+202,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",/uː/,"flu, guru",,,,
+203,u,before final r or r + cons.(and in derived terms),/ɜː/,"turn, occur, curdle, burr",/ʌ/,"recurrent, occurrence",/ʊ(ə)/,langur
+204,u,before final r or r + cons.(and in derived terms),/ɜː/,"furry, demurral, blurred, recurring",,,,
+205,u,before r + vowel,/jʊ(ə)/,"lure, purity, curing",/ʊ(ə)/,"allure, guru, Silurian",/ɛ/,"bury, burial"
+206,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",/ʊ(ə)/,"rural, jury, plural",/ɔː/,"sure, assurance [16]",,
+207,u,"after g, before a vowel",Ø,"guard, guest, guide, vaguer, languor",/w/,"language, segue, distinguish",/juː/,"jaguar (RP), ambiguity"
+208,u,after q,/w/,"quail, conquest, banquet, quite",Ø,"quay, conquer, bouquet, mosquito",,
+209,u,unstressed,/ə/,"support, industry, useful, medium",/ju/,"annual, evaluate, arduous, debut","/ɪ, ə/","minute, lettuce"
+210,u,unstressed,,,/u/,"influence, plurality, fruition",,
+211,u,unstressed,,,/jə/,"accurate, failure, tenure",,
+212,u,unstressed,,,/ʌ/,"guffaw, unruly, upend, vulgarity",,
+213,ue,after g,Ø,"league, tongue, vaguely, intrigued",/juː/,"ague, argued",/weɪ/,segued
+214,ue,after g,,,,,/wɛ/,guenon
+215,ue,after g,,,/ɛ/,"guest, guessed, baguette",/wə/,unguent
+216,ue,after g,,,,,/wiː/,ungues
+217,ue,after g,,,/ə/,"guerrilla, beleaguered",/juːə/,arguer
+218,ue,after g,,,,,/eɪ/,merengue
+219,ue,after g,,,,,/iː/,"dengue, Portuguese"
+220,ue,after r or cons. + l,/uː/,"true, clue, gruesome, blues",/uːə/,"influence, cruel, fluent, bluest",/uːɪ/,cruet
+221,ue,after r or cons. + l,,,,,/uːɛ/,unfluential
+222,ue,elsewhere (except after q),/juː/,"virtue, cue, valued, hue, muesli",/juːə/,"fuel, constituent, rescuer",/uːɪ/,suet
+223,ue,elsewhere (except after q),,,,,/uːɛ/,muezzin
+224,ue,elsewhere (except after q),,,/juːɛ/,"innuendo, statuesque, minuet",/juːiː/,tenues
+225,ue,elsewhere (except after q),,,,,/juːeɪ/,habitue
+226,ue,elsewhere (except after q),,,/uː/,"Sue, snafued (GA: due, revenue)",/jʊə/,puerile
+227,ue,elsewhere (except after q),,,,,/ʊ/,muenster
+228,ue,elsewhere (except after q),,,/uːə/,"GA: duel, pursuer",/weɪ/,"suede, Venezuelan"
+229,ue,elsewhere (except after q),,,,,/wɛ/,pueblo
+230,ue,elsewhere (except after q),,,,,/wɪ/,desuetude
+231,ui,after g,/wɪ/,"anguish, penguin, linguist, sanguine",/aɪ/,"guide, guise, beguile",/iː/,beguine
+232,ui,after g,,,,,/wiː/,linguine
+233,ui,after g,,,/ɪ/,"guild, guitar, intriguing, roguish",/juːɪ/,"arguing, aguish"
+234,ui,after g,,,,,/juːə/,contiguity
+235,ui,after g,,,,,/uːi/,GUI
+236,ui,"after j, r, or cons. + l",/uː/,"juice, cruise, sluice, fruiting",/uːɪ/,"fruition, fluid, ruin, druid, truism",/uːə/,incongruity
+237,ui,"after j, r, or cons. + l",,,,,/uːj/,alleluia
+238,ui,"after j, r, or cons. + l",,,,,/ʊ/,Cruickshank
+239,ui,elsewhere (except after q),/juːɪ/,"conduit, cuing, genuine, Buick, circuitous, Jesuit",/uː/,"suit, suitable, nuisance (GA)",/aɪ/,duiker
+240,ui,elsewhere (except after q),,,,,/ə/,circuitry
+241,ui,elsewhere (except after q),/ɪ/,"build, circuit, biscuit, pursuivant",/juːə/,"intuitive (RP), promiscuity",/wɪ/,"cuisine, suint"
+242,ui,elsewhere (except after q),,,/juː/,"nuisance (RP), puisne",/wiː/,"suite, ennui, tuille"
+243,ui,elsewhere (except after q),,,/uːɪ/,"suicide, tui, Inuit, Hinduism",/uːaɪ/,sui generis
+244,uu,,/juə/,"continuum, residuum",/uə/,menstruum,/uˈʌ/,duumvir
+245,uu,,,,,,/juː/,vacuum
+246,uu,,,,,,/uː/,muumuu
+247,uy,,/aɪ/,"buy, buyout, guyed",/iː/,"guyot, cliquy, plaguy",/jʊɪ/,toluyl
+248,uy,,,,/wi/,"tuyere, obsequy, soliloquy",/uːj/,"thuya, gruyere"
+249,y,before multiple consonants,/ɪ/,"myth, cryptic, system, symbol",/aɪ/,"cyclone, hyphen, psyche, python",,
+250,y,bef. 2+ unstressed syllables,/ɪ/,"cylinder, typical, pyramid, dynasty",/aɪ/,"hydrogen, dynasty (GA)",,
+251,y,next syllable contains /ɪ/,/ɪ/,"cynic, lyric, lytic, syringe",/aɪ/,"cyclist, hybrid, psychic, typist",,
+252,y,before single consonant,/aɪ/,"typing, style, paralyze, nylon",/ɪ/,"byzantine, synod, synagogue,",,
+253,y,before cons + (-le or r+vowel),/aɪ/,"cycle, cypress, hydrate, lycra",/ɪ/,"Cypriote, sycophantic",,
+254,y,"word-final, stressed",/aɪ/,"awry, by, deny, sky, supply",,,,
+255,y,before final r or r + cons.(and in derived terms),/ɜː/,"myrtle, myrrh",,,/ɪ/,pyrrhic
+256,y,before r + vowel,/aɪə/,"lyre, tyrant, gyrate",/ɪ/,"syrup, Pyrenees",,
+257,y,unstressed,/ɪ/,"bicycle, oxygen, polymer,dyslexia, physique, synonymous",/ə/,"sibyl, martyr, pyjamas",,
+258,y,unstressed,,,/aɪ/,"dynamics, hypothesis, typhoon",,
+259,y,unstressed,,,/i/,"anyway, everything",,
+260,y,"unstressed, word-final",/i/,"any, city, happy, only, supply (adv)",,,/aɪ/,ally (n)

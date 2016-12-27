@@ -1,0 +1,73 @@
+---
+title: "Wiki 数据处理"
+output: html_notebook
+---
+
+
+```{r}
+library(tidyr)
+library(dplyr)
+library(readr)
+```
+
+
+```{r}
+data <- read_csv("../data/Wikipedia/CombinationsofVowelLetters.csv") %>%
+  select(`Spelling`:`Examples of Except value`)
+head(data)
+```
+
+
+```{r}
+colnames(data)
+```
+
+
+```{r}
+df1 <- data %>%
+  select(Spelling:`Major value (IPA)`, Examples=`Examples of major value`)
+df2 <- data %>% 
+  select(Spelling:`Syllable Position`, `Minor values`, Examples=`Examples of minor value`)
+df3 <- data %>%
+  select(Spelling:`Syllable Position`, `Except values`, Examples=`Examples of Except value`)
+df1
+df2
+df3
+```
+
+
+```{r}
+df_1 <- df1 %>%
+  gather(attribete, Phonetic, -`Spelling`, -`Syllable Position`, -Examples) %>%
+  filter(!is.na(Phonetic) & !is.na(Examples)) %>%
+  select(`Phonetic`, `Spelling`, `Syllable Position`, `attribete`, `Examples`)
+```
+
+
+```{r}
+df_2 <- df2 %>%
+  gather(attribete, Phonetic, -`Spelling`, -`Syllable Position`, -`Examples`) %>%
+  filter(!is.na(Phonetic) & !is.na(Examples)) %>%
+  select(`Phonetic`, `Spelling`, `Syllable Position`, `attribete`, `Examples`)
+```
+
+
+```{r}
+df_3 <- df3 %>%
+  gather(attribete, Phonetic, -`Spelling`, -`Syllable Position`, -`Examples`) %>%
+  filter(!is.na(Phonetic) & !is.na(Examples) ) %>%
+  select(`Phonetic`, `Spelling`, `Syllable Position`, `attribete`, `Examples`)
+```
+
+
+```{r}
+df_1
+df_2
+df_3
+```
+
+
+```{r}
+df <- bind_rows(list(df_1, df_2, df_3))
+write_csv(path="../data/Wikipedia/CombinationsofVowelLetters_cleared.csv", x=df)
+```

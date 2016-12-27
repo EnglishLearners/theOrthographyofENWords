@@ -1,0 +1,530 @@
+Phonetic,Spelling,Syllable Position,attribete,Examples
+/æ/,a,before multiple consonants,Major value (IPA),"hatchet, banner, tally"
+/æ/,a,final vowel in word,Major value (IPA),"acrobat, cat"
+/æ/,a,followed by 2 or more unstressed syllables,Major value (IPA),"national, camera, reality"
+/æ/,a,"next syllable contains /ɪ, ə/",Major value (IPA),"acid, granite, palace"
+/eɪ/,a,"before final -nge, -ste",Major value (IPA),"range, exchange, haste"
+/eɪ/,a,before single consonant,Major value (IPA),"gave, opaque, savor, status"
+/eɪ/,a,before cons + (-le or r+vowel),Major value (IPA),"table, hatred, April"
+/eɪ/,a,before heterosyllabic vowel,Major value (IPA),"chaos, aorta, mosaic"
+/ɑː/,a,before final r or r + cons.(and in derived terms),Major value (IPA),"bar, cart"
+/ɑː/,a,before final r or r + cons.(and in derived terms),Major value (IPA),"barred, marring"
+/ɛ(ə)/ †,a,before r + vowel,Major value (IPA),"area, care, garish, wariness"
+/ɑː/,a,word-final (stressed),Major value (IPA),"bra, cha-cha, schwa, spa"
+/ɒ/ (/ɑː/)*,a,"after /w/ except before /k/, /ɡ/, /ŋ/",Major value (IPA),"want, watch, quality, squash, swamp, wapiti, swastika, wallet"
+/ɔː/,a,after /w/ before final r or r + cons.(and in derived terms),Major value (IPA),"war, award, dwarf, warning, quarter, warring"
+/ə/,a,unstressed,Major value (IPA),"about, an, salary, woman, blancmange, opera, via"
+"/ɪ, ə/",a,"unstressed, in -age",Major value (IPA),"damage, forage, garbage"
+/ɑː/,"aa, ah",NA,Major value (IPA),"baa, aardvark, blah"
+/iː/,ae,usually,Major value (IPA),"encyclopaedia, paediatrician"
+/ɛə/,ae,before r,Major value (IPA),"aerial, aeroplane"
+/eɪ/,ai,stressed,Major value (IPA),"daisy, laid, paisley, regain, waif"
+/ɛə/,ai,before r,Major value (IPA),"cairn, millionaire, dairy"
+"/ɪ, ə/",ai,unstressed,Major value (IPA),"bargain, mountain"
+/aʊ/,ao,NA,Major value (IPA),"cacao, miaow, Taoism"
+/ɔː/,au,NA,Major value (IPA),"aura, cause, chauffer, slaughter"
+/ɔː/,aw,NA,Major value (IPA),"awed, flaw, hawk, tawny"
+/eɪ/,ay,NA,Major value (IPA),"bayonet, essays, grayer, hayride"
+/iː/,e,before single consonant,Major value (IPA),"even, demon, fetal, recombine"
+/iː/,e,before cons + r +vowel,Major value (IPA),"metre, secret, egret, secretion"
+/iː/,e,"final, only vowel in word",Major value (IPA),"be, she"
+/iː/,e,before heterosyllabic vowel,Major value (IPA),"museum, neon, theater (GA)"
+/ɛ/,e,before multiple consonants,Major value (IPA),"petty, methane, merry, treble"
+/ɛ/,e,final vowel in word,Major value (IPA),"get, watershed"
+/ɛ/,e,bef. 2+ unstressed syllables,Major value (IPA),"legacy, elegant, delicate"
+/ɛ/,e,next syllable contains /ɪ/,Major value (IPA),"metric, crevice, epic"
+/ɜː/,e,before final r or r + other cons.(and in derived terms),Major value (IPA),"her, coerced, jerk, merchant"
+/ɜː/,e,before final r or r + other cons.(and in derived terms),Major value (IPA),"erring, preferred"
+/ɪə/,e,before r + vowel,Major value (IPA),"here, series, reremice, stereo"
+/ə/,e,unstressed,Major value (IPA),"taken, decency, moment"
+Ø,e,"ibid., word-final and derivatives",Major value (IPA),"discipline, recites, smile, limitrophe"
+/i/,e,"ibid., before heterosyllabic vowel",Major value (IPA),"create, area, atheism, video"
+/iː/,ea,usually,Major value (IPA),"dreams, read, cleans, leaf, zeal"
+/ɛ/,ea,usually,Major value (IPA),"dreamt, read, cleanse, deaf, zealot"
+/ɜː/,ea,before r + cons.,Major value (IPA),"pearly, hearse, yearning, earth"
+/ɪə/,ea,before final r or r + vowel(and in derived terms),Major value (IPA),"dearly, hears, yearling, tear"
+/oʊ/,eau,NA,Major value (IPA),"bureau, plateau, tableau"
+/iː/,ee,usually,Major value (IPA),"bee, breech, feed, trainee"
+/ɪə/,ee,before r,Major value (IPA),"cheering, beer, eerie"
+/eɪ/,"ei, ey",usually,Major value (IPA),"veil, weight, heinous, obey"
+/iː/,"ei, ey",after c,Major value (IPA),"deceive, ceiling, conceit"
+/ɛə/,"ei, ey",before r,Major value (IPA),"heir, madeira, their"
+"/ɪ, ə/","ei, ey",unstressed,Major value (IPA),"foreign, counterfeit, forfeit"
+/i/,"ei, ey","unstressed, word-final",Major value (IPA),"monkey, curtsey, jersey"
+/iːɒ/,eo,usually bisyllabic,Major value (IPA),"eon, geology, reoffer, teleost"
+/iːoʊ/,eo,usually bisyllabic,Major value (IPA),"creole, geode, leonine, video"
+/iːə/,eo,usually bisyllabic,Major value (IPA),"galleon, leotard, peon, theory"
+/juː/,"eu(e), ew(e), ieu, iew",usually,Major value (IPA),"deuce, feudal, queue, dew, ewe, view"
+/uː/,"eu(e), ew(e), ieu, iew","after /r/, /ʃ/, /ʒ/, /j/, cons. + /l/",Major value (IPA),"rheumatism, sleuth, jewel, blew"
+/jʊə/,"eu(e), ew(e), ieu, iew",before r,Major value (IPA),"euro, liqueur, neural"
+/ju(ə)/,"eu(e), ew(e), ieu, iew",unstressed before r,Major value (IPA),"eurhythmic, neurotic"
+/aɪ/,i,before single consonant,Major value (IPA),"cited, dive, mica, rise, polite, shine"
+/aɪ/,i,before cons + (-le or r+vowel),Major value (IPA),"idle, trifle, nitrous, mitres"
+/aɪ/,i,"before -nd, -ld, -gh, -gn",Major value (IPA),"sighed, signage, wilder, remind"
+/aɪ/,i,word-final,Major value (IPA),"alumni, alibi, radii"
+/aɪ/,i,before heterosyllabic vowel,Major value (IPA),"vial, quiet, prior, pious"
+/ɪ/,i,before multiple consonants,Major value (IPA),"dissent, mislaid, slither"
+/ɪ/,i,final vowel in word,Major value (IPA),"kiss, sic, bit, inflict, hint, plinth"
+/ɪ/,i,bef. 2+ unstressed syllables,Major value (IPA),"litany, liberal, chivalry, misery"
+/ɪ/,i,next syllable contains /ɪ/,Major value (IPA),"finish, limit, minute (n)"
+/ɪ/,i,before cons. + e/i + vowel,Major value (IPA),"hideous, position, Sirius"
+/aɪə/,i,before r + vowel (except bef. 2+ unstressed syllables),Major value (IPA),"pirate, mired, virus, iris, wiring"
+/ɜː/,i,before final r or r + cons.(and in derived terms),Major value (IPA),"bird, fir, stirrer"
+"/ɪ, ə/",i,unstressed,Major value (IPA),"divide, permit (n), livid, typical"
+/i/,i,"usd, before heterosyllabic vowel",Major value (IPA),"liaison, alien, radii, idiot"
+/aɪ/,ie,finally,Major value (IPA),"belie, die, untie, vie"
+/iː/,ie,medially,Major value (IPA),"field, siege, rabies, skied"
+/ɪə/,ie,before r,Major value (IPA),"cashier, fierce, frontier, pier,"
+/ɒ/ or /ɑː/,o,before multiple consonants,Major value (IPA),"doctor, torrent, donkey"
+/ɒ/ or /ɑː/,o,final vowel in word,Major value (IPA),"dot, bomb, wonk"
+/ɒ/ or /ɑː/,o,followed by 2 or more,Major value (IPA),"opera, colonise, cooperate"
+/ɒ/ or /ɑː/,o,next syllable contains /ɪ/,Major value (IPA),"topic, solid, promise"
+/oʊ/,o,before single consonant,Major value (IPA),"omen, grove, total"
+/oʊ/,o,before cons + (-le or r+vowel),Major value (IPA),"noble, cobra"
+/oʊ/,o,word-final,Major value (IPA),"banjo, go"
+/oʊ/,o,before heterosyllabic vowel(inc. unstressed),Major value (IPA),"boa, poet, stoic"
+/oʊ/,o,before heterosyllabic vowel(inc. unstressed),Major value (IPA),cooperate
+/ɔː/,o,before r,Major value (IPA),"ford, boring, more"
+/ɜː/,o,"after w, before r",Major value (IPA),"word, work, worst"
+/ə/,o,unstressed,Major value (IPA),"eloquent, wanton, author"
+/oʊ/,oa,usually,Major value (IPA),"boat, coal, load, coaxing"
+/ɔː/,oa,before r,Major value (IPA),"boar, coarse, keyboard, soaring"
+/iː/,oe,usually,Major value (IPA),"amoeba, coelacanth, foetal, phoenix"
+/oʊ/,oe,final vowels,Major value (IPA),"foe, goes, toed, woe"
+/ɪ/,oe,unstressed,Major value (IPA),"oedema, oesophagus"
+/uː/,oeu,NA,Major value (IPA),manoeuvre
+/ɔɪ/,oi,usually,Major value (IPA),"boing, moist, coin, envoi"
+/wɑː/,oi,before r,Major value (IPA),"reservoir, memoir, moire, soiree"
+/uː/,oo,usually,Major value (IPA),"cool, sooth, boot, goosebumps"
+/ʊ/,oo,"before k, d",Major value (IPA),"cook, shook, wood, stood"
+/ɔə/,oo,before r,Major value (IPA),"door, flooring"
+/aʊ/,ou,stressed,Major value (IPA),"out, aloud, bough"
+/ɔː/,ou,stressed before r,Major value (IPA),"four, courtesan, discourse"
+/ə/,ou,unstressed,Major value (IPA),"camouflage, labour, nervous"
+/aʊ/,ow,stressed,Major value (IPA),"owl, bow, row, sow, allow"
+/aʊə/,ow,before r,Major value (IPA),"dowry, cowries"
+/oʊ/,ow,unstressed,Major value (IPA),"yellow, teabowl, landowner"
+/ɔɪ/,oy,NA,Major value (IPA),"boy, doyenne, foyer, voyage"
+/ʌ/,u,before multiple consonants,Major value (IPA),"budding, cuckold, mullet, usher"
+/ʌ/,u,final vowel in word,Major value (IPA),"but, gull, Dutch, hush, fuss"
+/juː/,u,before single consonant,Major value (IPA),"mute, student, puny, union, fuses"
+/juː/,u,before cons + (-le or r+vowel),Major value (IPA),"bugle, hubris, nutrient (RP)"
+/juː/,u,before heterosyllabic vowel,Major value (IPA),"duo, nuance, pursuant, ensuing"
+/juː/,u,word-final,Major value (IPA),"menu, emu, impromptu (RP)"
+/uː/,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",Major value (IPA),"rule, chute, June, recluses"
+/uː/,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",Major value (IPA),"scruples, rubric"
+/uː/,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",Major value (IPA),"truant, fluent, cruelty"
+/uː/,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",Major value (IPA),"flu, guru"
+/ɜː/,u,before final r or r + cons.(and in derived terms),Major value (IPA),"turn, occur, curdle, burr"
+/ɜː/,u,before final r or r + cons.(and in derived terms),Major value (IPA),"furry, demurral, blurred, recurring"
+/jʊ(ə)/,u,before r + vowel,Major value (IPA),"lure, purity, curing"
+/ʊ(ə)/,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",Major value (IPA),"rural, jury, plural"
+Ø,u,"after g, before a vowel",Major value (IPA),"guard, guest, guide, vaguer, languor"
+/w/,u,after q,Major value (IPA),"quail, conquest, banquet, quite"
+/ə/,u,unstressed,Major value (IPA),"support, industry, useful, medium"
+Ø,ue,after g,Major value (IPA),"league, tongue, vaguely, intrigued"
+/uː/,ue,after r or cons. + l,Major value (IPA),"true, clue, gruesome, blues"
+/juː/,ue,elsewhere (except after q),Major value (IPA),"virtue, cue, valued, hue, muesli"
+/wɪ/,ui,after g,Major value (IPA),"anguish, penguin, linguist, sanguine"
+/uː/,ui,"after j, r, or cons. + l",Major value (IPA),"juice, cruise, sluice, fruiting"
+/juːɪ/,ui,elsewhere (except after q),Major value (IPA),"conduit, cuing, genuine, Buick, circuitous, Jesuit"
+/ɪ/,ui,elsewhere (except after q),Major value (IPA),"build, circuit, biscuit, pursuivant"
+/juə/,uu,NA,Major value (IPA),"continuum, residuum"
+/aɪ/,uy,NA,Major value (IPA),"buy, buyout, guyed"
+/ɪ/,y,before multiple consonants,Major value (IPA),"myth, cryptic, system, symbol"
+/ɪ/,y,bef. 2+ unstressed syllables,Major value (IPA),"cylinder, typical, pyramid, dynasty"
+/ɪ/,y,next syllable contains /ɪ/,Major value (IPA),"cynic, lyric, lytic, syringe"
+/aɪ/,y,before single consonant,Major value (IPA),"typing, style, paralyze, nylon"
+/aɪ/,y,before cons + (-le or r+vowel),Major value (IPA),"cycle, cypress, hydrate, lycra"
+/aɪ/,y,"word-final, stressed",Major value (IPA),"awry, by, deny, sky, supply"
+/ɜː/,y,before final r or r + cons.(and in derived terms),Major value (IPA),"myrtle, myrrh"
+/aɪə/,y,before r + vowel,Major value (IPA),"lyre, tyrant, gyrate"
+/ɪ/,y,unstressed,Major value (IPA),"bicycle, oxygen, polymer,dyslexia, physique, synonymous"
+/i/,y,"unstressed, word-final",Major value (IPA),"any, city, happy, only, supply (adv)"
+/eɪ/,a,before multiple consonants,Minor values,"ache, ancient, chamber, pastry"
+/eɪ/,a,final vowel in word,Minor values,bass
+/eɪ/,a,followed by 2 or more unstressed syllables,Minor values,"nationhood, scathingly"
+/eɪ/,a,"next syllable contains /ɪ, ə/",Minor values,"basis, aphasic"
+/ɑː/,a,"next syllable contains /ɪ, ə/",Minor values,"father (RP: aft, ask, dance, past)"
+/æ/,a,"before final -nge, -ste",Minor values,"flange, caste (GA)"
+/æ/,a,before single consonant,Minor values,"have, plaque, manor, statue"
+/æ/,a,before cons + (-le or r+vowel),Minor values,"macle, sacrifice, theatrical"
+/ɑː/,a,before heterosyllabic vowel,Minor values,"debacle, melange"
+/ɑː/,a,before heterosyllabic vowel,Minor values,"gala, lava, slalom, sonata"
+/æ/ †,a,before r + vowel,Minor values,"arid, parish, mariners, caraway"
+/ɑː/,a,before r + vowel,Minor values,"aria, are, safaris, faraway"
+/ɒ/ (/ɔː/)*,a,"after /w/ except before /k/, /ɡ/, /ŋ/",Minor values,"wash, wasp, quarantine"
+/ɔː/,a,"after /w/ except before /k/, /ɡ/, /ŋ/",Minor values,"water, wall, walnut, waltz"
+/ɛ(ə)/,a,"after /w/ except before /k/, /ɡ/, /ŋ/",Minor values,"aware, square, wary, antiquarian"
+/eɪ/,a,"after /w/ except before /k/, /ɡ/, /ŋ/",Minor values,"persuade, wastage, swathe"
+/ə/ to Ø,a,unstressed,Minor values,"artistically, ordinary, necessary"
+/ɪ/,a,unstressed,Minor values,"chocolate, purchase, solace,"
+/eɪ/,a,unstressed,Minor values,"probate, folate, kinase"
+/ɑː/,a,"unstressed, in -age",Minor values,"(RP): garage, barrage"
+/ɛə/,"aa, ah",NA,Minor values,Aaron
+/ɛ/,ae,usually,Minor values,aesthetic
+/ɪə/,ae,before r,Minor values,chimaera
+/aɪ/,ai,stressed,Minor values,"aisle, bonsai, daimon, krait"
+/ɛ/,ai,stressed,Minor values,"said, again, against"
+/eɪ ɪ/,ai,stressed,Minor values,"dais, laic, mosaic, papain"
+/ə/,ai,unstressed,Minor values,"certain, coxswain, spritsail"
+/eɪ/,ao,NA,Minor values,gaol
+/eɪɒ/,ao,NA,Minor values,"kaon, chaos"
+/eɪə/,ao,NA,Minor values,"aorist, kaolin"
+/ɔː/,ao,NA,Minor values,extraordinary
+/ɒ/,au,NA,Minor values,"because, laurel, leprechaun"
+/ɑː/ (/æ/)**,au,NA,Minor values,"aunt, draught, laughter"
+/aʊ/,au,NA,Minor values,"degauss, graupel, trauma (GA)"
+/oʊ/,au,NA,Minor values,"chauffeur, gauche, mauve"
+/aɪ/,ay,NA,Minor values,"aye, bayou, kayak, papaya"
+/ɛ/,ay,NA,Minor values,"mayor, prayer, says"
+/ɛ/,e,before single consonant,Minor values,"ever, lemon, petal, recollect"
+/ɛ/,e,before cons + r +vowel,Minor values,"petrol, debris (RP), , discretion"
+/eɪ/,e,"final, only vowel in word",Minor values,"abbe, cafe (GA), saute"
+/eɪ/,e,before heterosyllabic vowel,Minor values,"seance, rodeo, deity (RP)"
+/iː/,e,before multiple consonants,Minor values,"lethal, reflex, Stephen"
+/iː/,e,final vowel in word,Minor values,"feces, axes (plural of axis)"
+/iː/,e,bef. 2+ unstressed syllables,Minor values,"legally, devious, premium"
+/iː/,e,next syllable contains /ɪ/,Minor values,"evil, scenic, strategic"
+/ɛ/,e,before final r or r + other cons.(and in derived terms),Minor values,berceuse
+/ɛ/,e,before final r or r + other cons.(and in derived terms),Minor values,error
+/ɛə/,e,before r + vowel,Minor values,"compere, there, werewolf"
+/ɛ/,e,before r + vowel,Minor values,"derelict, heresy, perish, very"
+/iː/,e,before r + vowel,Minor values,"derail, reremind"
+"/ɪ, ə/",e,unstressed,Minor values,"hatchet, target, poet"
+/iː/,e,"ibid., word-final and derivatives",Minor values,"recipes, simile, apostrophe, deled"
+/eɪ/,e,"ibid., before heterosyllabic vowel",Minor values,"fideism, realpolitik"
+/eɪ/,ea,usually,Minor values,"break, eagre, great, yea"
+/ə/,ea,usually,Minor values,"hydrangea, likeable, ocean"
+/ɪə/,ea,usually,Minor values,"idea, ideal, real, realty"
+/iːə/,ea,usually,Minor values,"urea, cereal, fealty, laureate"
+/iːeɪ/,ea,usually,Minor values,"creating, protease, reagent"
+/ɑː/,ea,before r + cons.,Minor values,"hearken, hearty, hearth"
+/ɛə/,ea,before final r or r + vowel(and in derived terms),Minor values,"tear, bears, wearing"
+/iːə/,ea,before final r or r + vowel(and in derived terms),Minor values,"linear, nuclear, stearin"
+/juː/,eau,NA,Minor values,beauty
+/eɪ/,ee,usually,Minor values,"matinee, fiancees, nee"
+/i/,ee,usually,Minor values,"bungee, coffee"
+/iːə/,ee,before r,Minor values,"freer, seers"
+/iː/,"ei, ey",usually,Minor values,"caffeine, seize, key, geyser"
+/aɪ/,"ei, ey",usually,Minor values,"either, height, heist, heinie, eye"
+/iːɪ/,"ei, ey",usually,Minor values,"albeit, being, cysteine, deist"
+/ɪə/,"ei, ey",before r,Minor values,"weird, weir, eyrie"
+/ə/,"ei, ey",unstressed,Minor values,"mullein, villein"
+/i/,"ei, ey",unstressed,Minor values,volleyed
+/ɛ/,eo,usually bisyllabic,Minor values,"feoffee, jeopardy, leopard"
+/iː/,eo,usually bisyllabic,Minor values,"feoff, people"
+/ə/,eo,usually bisyllabic,Minor values,"luncheon, pigeon, embraceor"
+/ɜː/,"eu(e), ew(e), ieu, iew",usually,Minor values,"berceuse, danseuse"
+/uː/,"eu(e), ew(e), ieu, iew",NA,Minor values,"leukemia, lewd, lieu (sic)"
+/iːə/,"eu(e), ew(e), ieu, iew",NA,Minor values,"museum, pileus"
+/iːə/,"eu(e), ew(e), ieu, iew","after /r/, /ʃ/, /ʒ/, /j/, cons. + /l/",Minor values,nucleus
+/ɜː/,"eu(e), ew(e), ieu, iew",before r,Minor values,"masseur, voyeur"
+/jə/,"eu(e), ew(e), ieu, iew",unstressed before r,Minor values,"aneurism, derailleur, grandeur"
+/ə/,"eu(e), ew(e), ieu, iew",unstressed before r,Minor values,"amateur, chauffeur"
+/ɪ/,i,before single consonant,Minor values,"city, give, vicar, risen"
+/ɪ/,i,before cons + (-le or r+vowel),Minor values,"triple, citrus, giblets"
+/ɪ/,i,"before -nd, -ld, -gh, -gn",Minor values,"pighead, signal, bewilder, rescind"
+/iː/,i,word-final,Minor values,ski
+/iː/,i,before heterosyllabic vowel,Minor values,"clientele, fiat, lien, skiing"
+/aɪ/,i,before multiple consonants,Minor values,"dissect, island, blithely"
+/aɪ/,i,final vowel in word,Minor values,"indict, pint, ninth"
+/aɪ/,i,bef. 2+ unstressed syllables,Minor values,"irony, libelous, rivalry, miserly"
+/aɪ/,i,next syllable contains /ɪ/,Minor values,"whitish, writing"
+/aɪ/,i,before cons. + e/i + vowel,Minor values,"shinier, tidied"
+/ɪ/,i,before r + vowel (except bef. 2+ unstressed syllables),Minor values,"mirage, virile, iridescent, spirit"
+/ə/,i,unstressed,Minor values,"giraffe, pencil, cousin, Cheshire"
+/aɪ/,i,"usd, before heterosyllabic vowel",Minor values,"biology, diameter"
+/i/,ie,finally,Minor values,"goalie, oldie, auntie, movie"
+/aɪ/,ie,medially,Minor values,"allied, pied, skies"
+/aɪə/,ie,medially,Minor values,"client, diet, science, sliest"
+/iə/ to /jə/,ie,medially,Minor values,"ambient, alien, oriel, ugliest"
+/iˈɛ/,ie,medially,Minor values,"orient (v), acquiesce"
+/aɪ(ə)/,ie,before r,Minor values,"shier, fiery, hierarchy, plier"
+/iə/ to /jə/,ie,before r,Minor values,"busier, rapier, glacier, hosiery"
+/ʌ/,o,before multiple consonants,Minor values,"won, monkey, front"
+/oʊ/,o,final vowel in word,Minor values,"gross, comb, wonted, both"
+/oʊ/,o,followed by 2 or more,Minor values,"brokenly, probity, tonicity"
+/oʊ/,o,next syllable contains /ɪ/,Minor values,"meiosis, aerobic"
+/uː/,o,final vowel in word,Minor values,"tomb, womb"
+/ɒ/,o,before single consonant,Minor values,"moral, proper, shone"
+/uː/,o,before cons + (-le or r+vowel),Minor values,"to, who, move, doable"
+/ʌ/,o,word-final,Minor values,"come, love, done, colander"
+/ə/,o,before heterosyllabic vowel(inc. unstressed),Minor values,"purpose, Europe"
+/ɒ/,o,before r,Minor values,"forest, borrow, moral"
+/ɔː/,o,"after w, before r",Minor values,"worn, sword, swore"
+/oʊə/,oa,usually,Minor values,"boa, inchoate"
+/oʊæ/,oa,usually,Minor values,"coaxial, ogdoad"
+/oʊˈeɪ/,oa,usually,Minor values,"oasis, cloaca"
+/oʊ/,oe,usually,Minor values,"doeskin, woeful"
+/uː/,oe,usually,Minor values,"shoelace, canoeing"
+/oʊˈɛ/,oe,usually,Minor values,"poetic, soever, orthoepic"
+/uː/,oe,final vowels,Minor values,"shoes, canoe"
+/oʊɛ/,oe,final vowels,Minor values,"coed, noel, phloem"
+/oʊə/,oe,final vowels,Minor values,"goer, loess, poem"
+/oʊ/,oe,unstressed,Minor values,"aloe, echoed, oboes, soloed"
+/ɜː/,oeu,NA,Minor values,oeuvre
+/oʊɪ/,oi,usually,Minor values,"going, egoist, heroin, stoic"
+/wɑː/,oi,usually,Minor values,"bourgeois, coiffeur, patois"
+/ə/,oi,usually,Minor values,"connoisseur, porpoise, tortoise, croissant"
+/ɔɪə/,oi,before r,Minor values,"coir, loir, Moira"
+/ʊ/,oo,usually,Minor values,"wool, soot, foot, gooseberry"
+/uː/,oo,"before k, d",Minor values,"kook, spook, food, brood"
+/ʊə/,oo,before r,Minor values,"poor, moor, roorback"
+/uː/,ou,stressed,Minor values,"soup, you, through"
+/ʌ/,ou,stressed,Minor values,"touch, trouble, country"
+/oʊ/,ou,stressed,Minor values,"soul, dough, boulder"
+/aʊə/,ou,stressed before r,Minor values,"hour, flour, scours"
+/ɜː/,ou,stressed before r,Minor values,"journey, courtesy, scourge"
+/ʊ(ə)/,ou,stressed before r,Minor values,"tour, courier, gourd, velour"
+/u/,ou,unstressed,Minor values,"entourage, bivouac, bedouin"
+/ʊ/,ou,unstressed,Minor values,"potpourri, detour"
+/oʊ/,ow,stressed,Minor values,"own, bow, row, sow, alow"
+/oʊ/,ow,before r,Minor values,"cowrites, showroom"
+/aʊ/,ow,unstressed,Minor values,"peafowl, sundowner"
+/waɪ/,oy,NA,Minor values,"voyeur, noyade"
+/ʊ/,u,before multiple consonants,Minor values,"pudding, cuckoo, bullet, cushion"
+/ʊ/,u,final vowel in word,Minor values,"put, full, butch, shush, puss"
+/ʌ/,u,before single consonant,Minor values,"study, punish, bunion, buses"
+/ʌ/,u,before cons + (-le or r+vowel),Minor values,"butler, cutlery, subrogate"
+/uː/,u,before heterosyllabic vowel,Minor values,"super, lunar, absolute, revolution, suet, lucrative, lugubrious"
+/uː/,u,word-final,Minor values,"hindu, tutu, tofu"
+/ʌ/,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",Minor values,"pluses, runaway, truculent, runlet, clubroom, rumrunner"
+/ʌ/,u,before final r or r + cons.(and in derived terms),Minor values,"recurrent, occurrence"
+/ʊ(ə)/,u,before r + vowel,Minor values,"allure, guru, Silurian"
+/ɔː/,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",Minor values,"sure, assurance [16]"
+/w/,u,"after g, before a vowel",Minor values,"language, segue, distinguish"
+Ø,u,after q,Minor values,"quay, conquer, bouquet, mosquito"
+/ju/,u,unstressed,Minor values,"annual, evaluate, arduous, debut"
+/u/,u,unstressed,Minor values,"influence, plurality, fruition"
+/jə/,u,unstressed,Minor values,"accurate, failure, tenure"
+/ʌ/,u,unstressed,Minor values,"guffaw, unruly, upend, vulgarity"
+/juː/,ue,after g,Minor values,"ague, argued"
+/ɛ/,ue,after g,Minor values,"guest, guessed, baguette"
+/ə/,ue,after g,Minor values,"guerrilla, beleaguered"
+/uːə/,ue,after r or cons. + l,Minor values,"influence, cruel, fluent, bluest"
+/juːə/,ue,elsewhere (except after q),Minor values,"fuel, constituent, rescuer"
+/juːɛ/,ue,elsewhere (except after q),Minor values,"innuendo, statuesque, minuet"
+/uː/,ue,elsewhere (except after q),Minor values,"Sue, snafued (GA: due, revenue)"
+/uːə/,ue,elsewhere (except after q),Minor values,"GA: duel, pursuer"
+/aɪ/,ui,after g,Minor values,"guide, guise, beguile"
+/ɪ/,ui,after g,Minor values,"guild, guitar, intriguing, roguish"
+/uːɪ/,ui,"after j, r, or cons. + l",Minor values,"fruition, fluid, ruin, druid, truism"
+/uː/,ui,elsewhere (except after q),Minor values,"suit, suitable, nuisance (GA)"
+/juːə/,ui,elsewhere (except after q),Minor values,"intuitive (RP), promiscuity"
+/juː/,ui,elsewhere (except after q),Minor values,"nuisance (RP), puisne"
+/uːɪ/,ui,elsewhere (except after q),Minor values,"suicide, tui, Inuit, Hinduism"
+/uə/,uu,NA,Minor values,menstruum
+/iː/,uy,NA,Minor values,"guyot, cliquy, plaguy"
+/wi/,uy,NA,Minor values,"tuyere, obsequy, soliloquy"
+/aɪ/,y,before multiple consonants,Minor values,"cyclone, hyphen, psyche, python"
+/aɪ/,y,bef. 2+ unstressed syllables,Minor values,"hydrogen, dynasty (GA)"
+/aɪ/,y,next syllable contains /ɪ/,Minor values,"cyclist, hybrid, psychic, typist"
+/ɪ/,y,before single consonant,Minor values,"byzantine, synod, synagogue,"
+/ɪ/,y,before cons + (-le or r+vowel),Minor values,"Cypriote, sycophantic"
+/ɪ/,y,before r + vowel,Minor values,"syrup, Pyrenees"
+/ə/,y,unstressed,Minor values,"sibyl, martyr, pyjamas"
+/aɪ/,y,unstressed,Minor values,"dynamics, hypothesis, typhoon"
+/i/,y,unstressed,Minor values,"anyway, everything"
+/ɒ/,a,before multiple consonants,Except values,yacht
+/ɛ/,a,before single consonant,Except values,"many, any, ate (RP)"
+/aɪ/,a,before single consonant,Except values,naive
+/ɛə/,a,before final r or r + cons.(and in derived terms),Except values,scarce
+/ɔː/,a,before r + vowel,Except values,quarantine (GA)
+/ɒ/,a,before r + vowel,Except values,waratah
+/ɑː/,a,"after /w/ except before /k/, /ɡ/, /ŋ/",Except values,"qualm, suave, swami"
+/æ/,a,"after /w/ except before /k/, /ɡ/, /ŋ/",Except values,"swam, aquatic (RP)"
+/ʌ/,a,"after /w/ except before /k/, /ɡ/, /ŋ/",Except values,"was, what (GA)"
+/ɑː/,a,after /w/ before final r or r + cons.(and in derived terms),Except values,"jaguar (GA), quark"
+/ɒ/,a,after /w/ before final r or r + cons.(and in derived terms),Except values,warrior (RP)
+/i/,a,unstressed,Except values,"karaoke, bologna(GA)"
+/ɑː/,a,unstressed,Except values,"retard (n), canard (RP)"
+/eɪ/,a,"unstressed, in -age",Except values,teenage
+/eɪ/,"aa, ah",NA,Except values,Quaalude
+/eɪ/,ae,usually,Except values,"reggae, sundae, gaelic"
+/ə/,ae,before r,Except values,anaerobe
+/æ/,ai,stressed,Except values,"plaid, plaited, daiqiri"
+/aɪiː/,ai,stressed,Except values,"naif, caique"
+/i ɪ/,ai,stressed,Except values,archaism
+/aɪ/,ai,before r,Except values,"hetaira, zaire"
+/oʊ/,ao,NA,Except values,pharaoh
+/eɪɔː/,ao,NA,Except values,aorta
+/eɪoʊ/,ao,NA,Except values,baobab
+/ioʊ/,ao,NA,Except values,karaoke
+/eɪ/,au,NA,Except values,gauge
+/aʊə/,au,NA,Except values,gaur
+/ʌ/,au,NA,Except values,because (GA)
+/ə/,au,NA,Except values,"aurora, meerschaum"
+/ə/,aw,NA,Except values,awry
+/iː/,ay,NA,Except values,"cay, quay, parlay"
+/əj/,ay,NA,Except values,gayal
+/eɪ/,e,before single consonant,Except values,"crepe, suede, ukulele"
+/ɑː/,e,before cons + r +vowel,Except values,genre
+/ɒ/,e,before cons + r +vowel,Except values,genre
+/ɛ/,e,before heterosyllabic vowel,Except values,yeah (GA)
+/ɪ/,e,before multiple consonants,Except values,"pretty, English"
+/ɑː/,e,final vowel in word,Except values,"ennui, entourage"
+/ɒ/,e,final vowel in word,Except values,"ennui, entourage"
+/eɪ/,e,bef. 2+ unstressed syllables,Except values,eh
+/ɑː/,e,before final r or r + other cons.(and in derived terms),Except values,"clerk, sergeant"
+/ɜː/,e,before r + vowel,Except values,"were, weregild"
+/ɪ/,e,unstressed,Except values,"erase, erect"
+/eɪ/,e,"ibid., word-final and derivatives",Except values,"latte, mores, protege"
+/ɑː/,ea,usually,Except values,orgeat
+/æ/,ea,usually,Except values,poleax
+/ɔː/,ea,usually,Except values,ealderman
+/ɪ/,ea,usually,Except values,mileage
+/iːɪ/,ea,usually,Except values,lineage
+/ɛə/,ea,usually,Except values,yeah
+/eɪɑː/,ea,usually,Except values,seance
+/iːæ/,ea,usually,Except values,"beatify, caveat, reality"
+/ɪə/,ea,before r + cons.,Except values,"beard, peart"
+/eɪə/,ea,before r + cons.,Except values,bearnaise
+/i'ɑː/,ea,before r + cons.,Except values,rearm
+/ɜː/,ea,before final r or r + vowel(and in derived terms),Except values,heard
+/iː/,ea,before final r or r + vowel(and in derived terms),Except values,tearoom
+/ɒ/,eau,NA,Except values,bureaucracy
+/ə/,eau,NA,Except values,bureaucrat
+/ɪ/,ee,usually,Except values,"breeches, been (GA)"
+/iːə/,ee,usually,Except values,"freest, weest"
+/iːɛ/,ee,usually,Except values,reecho
+/iːɪ/,ee,usually,Except values,reelect
+/ɛ/,"ei, ey",usually,Except values,"heifer, leisure, seigneur"
+/æ/,"ei, ey",usually,Except values,"reveille, serein"
+/eɪ ɪ/,"ei, ey",usually,Except values,fideist
+/iˈaɪ/,"ei, ey",usually,Except values,deice
+/æ/,"ei, ey",after c,Except values,"ceinture, enceinte"
+/eɪɪ/,"ei, ey",after c,Except values,glaceing
+/iːɪ/,"ei, ey",after c,Except values,haecceity
+/aɪ/,"ei, ey",before r,Except values,"oneiric, eirenic"
+/ɪ/,"ei, ey",unstressed,Except values,"ageist, herein, ogreish"
+/aɪ/,"ei, ey",unstressed,Except values,walleyed
+/eɪ/,"ei, ey","unstressed, word-final",Except values,survey (n)
+/oʊ/,eo,usually bisyllabic,Except values,yeoman
+/ɛə/,eo,usually bisyllabic,Except values,ceorl
+/juː/,eo,usually bisyllabic,Except values,feodary
+/uːi/,eo,usually bisyllabic,Except values,geoduck
+/eɪoʊ/,eo,usually bisyllabic,Except values,"rodeo, teosinte"
+/iˈa/,eo,usually bisyllabic,Except values,meow
+/oʊ/,"eu(e), ew(e), ieu, iew",usually,Except values,"sew, shew"
+/ɛf/,"eu(e), ew(e), ieu, iew",NA,Except values,lieutenant (RP)
+/jɜː/,"eu(e), ew(e), ieu, iew",NA,Except values,milieu
+/iːuː/,"eu(e), ew(e), ieu, iew",NA,Except values,reuse
+/iːʌ/,"eu(e), ew(e), ieu, iew",NA,Except values,reutters
+/ʌ/,"eu(e), ew(e), ieu, iew",NA,Except values,"pileup, Ø fauteuil"
+/ʊə/,"eu(e), ew(e), ieu, iew",before r,Except values,pleurisy
+/iːɜː/,"eu(e), ew(e), ieu, iew",before r,Except values,theurgy
+/iː/,i,before single consonant,Except values,"police, elite, machine"
+/iː/,i,before cons + (-le or r+vowel),Except values,"litres, in vitro"
+/iː/,i,"before -nd, -ld, -gh, -gn",Except values,"chignon, Monsignor"
+/æ/,i,before multiple consonants,Except values,meringue
+/iː/,i,before multiple consonants,Except values,"artiste, chenille"
+/iː/,i,final vowel in word,Except values,"skis, chic, ambergris"
+/ɪə/,i,before final r or r + cons.(and in derived terms),Except values,menhir
+Ø,i,unstressed,Except values,"business, parliament, lieu, nostalgia"
+/aɪ/,i,unstressed,Except values,"director, minute (adj)"
+/aɪə/,i,unstressed,Except values,sapphire
+/eɪ/,ie,finally,Except values,lingerie (GA)
+/ieɪ/,ie,finally,Except values,kyrie
+/ɪ/,ie,medially,Except values,"sieve, mischief, kerchief"
+/ɛ/,ie,medially,Except values,"friend, hygienic (GA)"
+/aɪˈɛ/,ie,medially,Except values,biennial
+/iːɒ/,ie,medially,Except values,clientele
+/iˈiː/,ie,medially,Except values,medieval
+/iːə/,ie,medially,Except values,lien
+/iɛ(ə)/,ie,before r,Except values,"concierge, premiere"
+/iˈeɪ/,ie,before r,Except values,"atelier, bustier, dossier"
+/iːə/,ie,before r,Except values,skier
+/ʊ/,o,before multiple consonants,Except values,wolf
+/wʌ/,o,final vowel in word,Except values,once
+/ɔː/,o,followed by 2 or more,Except values,"(GA) long, broth"
+/ʊ/,o,before single consonant,Except values,"woman, bosom"
+/ɪ/,o,before cons + (-le or r+vowel),Except values,women
+/wʌ/,o,word-final,Except values,one
+Ø,o,before heterosyllabic vowel(inc. unstressed),Except values,"colonel, sophomore (some dialects)"
+/ɜː/,o,before r,Except values,whorl
+/ʌ/,o,before r,Except values,borough
+/ʌ/,o,"after w, before r",Except values,worry
+/ɒ/,o,unstressed,Except values,neuron
+/ɔː/,oa,usually,Except values,broad
+/uːə/,oa,usually,Except values,doable
+/oʊˈɒ/,oa,usually,Except values,koala
+/ə/,oa,before r,Except values,"cupboard, starboard"
+/oʊˈɑː/,oa,before r,Except values,coarctate
+/ɛ/,oe,usually,Except values,"foetid, roentgen"
+/oʊˈiː/,oe,usually,Except values,"coeval, noesis"
+/oʊˈɜː/,oe,usually,Except values,coerce
+/oʊə/,oe,usually,Except values,"poetry, orthoepy"
+/ʌ/,oe,final vowels,Except values,does
+/uːə/,oe,final vowels,Except values,"doeth, doer"
+/ɜː/,oe,final vowels,Except values,foehn
+/oʊiː/,oe,final vowels,Except values,"diploe, kalanchoe"
+/uː/,oe,unstressed,Except values,hoopoe
+/uːɪ/,oi,usually,Except values,doing
+/iː/,oi,usually,Except values,chamois
+/oʊaɪ/,oi,usually,Except values,"ghettoise, oroide"
+/waɪə/,oi,before r,Except values,choir
+/ə/,oi,before r,Except values,avoirdupois
+/oʊ/,oo,usually,Except values,brooch
+/oʊ ɒ/,oo,usually,Except values,"coopt, zoology"
+/ʌ/,oo,"before k, d",Except values,"flood, blood"
+/ə/,oo,before r,Except values,whippoorwill
+/oʊ ɔː/,oo,before r,Except values,coordinate
+/ʊ/,ou,stressed,Except values,"could, should"
+/ɒ/,ou,stressed,Except values,"cough, fount (printing)"
+/juː/,ou,stressed,Except values,"ampoule, coupon (GA)"
+/ʌ/,ou,stressed before r,Except values,"encourage, flourish"
+/ʌ/,ou,unstressed,Except values,hiccough
+/w/,ou,unstressed,Except values,"ratatouille, ouabaine"
+/ɒ/,ow,stressed,Except values,"acknowledge, rowlock"
+/əw/,ow,unstressed,Except values,"cassowary, toward (RP)"
+/oʊj/,oy,NA,Except values,oyez
+/aɪ/,oy,NA,Except values,coyote (GA)
+/i/,oy,NA,Except values,buoy
+/uː/,u,before multiple consonants,Except values,"truth, ruthless, brut"
+/juː/,u,final vowel in word,Except values,"butte, debut, fuchsia, tulle"
+/ɪ/,u,before single consonant,Except values,"busy, business"
+/ʊ/,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",Except values,sugar
+/juː/,u,"above after /r/,/ʃ/,/ʒ/,/j/, cons.+/l/",Except values,"overuse, underused"
+/ʊ(ə)/,u,before final r or r + cons.(and in derived terms),Except values,langur
+/ɛ/,u,before r + vowel,Except values,"bury, burial"
+/juː/,u,"after g, before a vowel",Except values,"jaguar (RP), ambiguity"
+"/ɪ, ə/",u,unstressed,Except values,"minute, lettuce"
+/weɪ/,ue,after g,Except values,segued
+/wɛ/,ue,after g,Except values,guenon
+/wə/,ue,after g,Except values,unguent
+/wiː/,ue,after g,Except values,ungues
+/juːə/,ue,after g,Except values,arguer
+/eɪ/,ue,after g,Except values,merengue
+/iː/,ue,after g,Except values,"dengue, Portuguese"
+/uːɪ/,ue,after r or cons. + l,Except values,cruet
+/uːɛ/,ue,after r or cons. + l,Except values,unfluential
+/uːɪ/,ue,elsewhere (except after q),Except values,suet
+/uːɛ/,ue,elsewhere (except after q),Except values,muezzin
+/juːiː/,ue,elsewhere (except after q),Except values,tenues
+/juːeɪ/,ue,elsewhere (except after q),Except values,habitue
+/jʊə/,ue,elsewhere (except after q),Except values,puerile
+/ʊ/,ue,elsewhere (except after q),Except values,muenster
+/weɪ/,ue,elsewhere (except after q),Except values,"suede, Venezuelan"
+/wɛ/,ue,elsewhere (except after q),Except values,pueblo
+/wɪ/,ue,elsewhere (except after q),Except values,desuetude
+/iː/,ui,after g,Except values,beguine
+/wiː/,ui,after g,Except values,linguine
+/juːɪ/,ui,after g,Except values,"arguing, aguish"
+/juːə/,ui,after g,Except values,contiguity
+/uːi/,ui,after g,Except values,GUI
+/uːə/,ui,"after j, r, or cons. + l",Except values,incongruity
+/uːj/,ui,"after j, r, or cons. + l",Except values,alleluia
+/ʊ/,ui,"after j, r, or cons. + l",Except values,Cruickshank
+/aɪ/,ui,elsewhere (except after q),Except values,duiker
+/ə/,ui,elsewhere (except after q),Except values,circuitry
+/wɪ/,ui,elsewhere (except after q),Except values,"cuisine, suint"
+/wiː/,ui,elsewhere (except after q),Except values,"suite, ennui, tuille"
+/uːaɪ/,ui,elsewhere (except after q),Except values,sui generis
+/uˈʌ/,uu,NA,Except values,duumvir
+/juː/,uu,NA,Except values,vacuum
+/uː/,uu,NA,Except values,muumuu
+/jʊɪ/,uy,NA,Except values,toluyl
+/uːj/,uy,NA,Except values,"thuya, gruyere"
+/ɪ/,y,before final r or r + cons.(and in derived terms),Except values,pyrrhic
+/aɪ/,y,"unstressed, word-final",Except values,ally (n)
